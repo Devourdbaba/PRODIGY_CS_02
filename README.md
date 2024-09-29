@@ -1,4 +1,6 @@
 PixeIMP
+
+
 This Python script provides a simple implementation of image encryption and decryption using pixel manipulation. The encryption algorithm shuffles the pixels of the image based on a random permutation generated from a given key.
 
 How to Use:
